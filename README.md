@@ -1,4 +1,5 @@
-Hello world script
-====================
+Hello and Goodbye World Scripts
+===============================
 
-A simple script showing the basic Hello World! example for the Nextflow framework. 
+This repository contains two scripts demonstrating the basic "Hello World!" and "Goodbye World!" examples for the Nextflow framework.
+
